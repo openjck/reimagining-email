@@ -1,0 +1,1 @@
+pkill notify-osd; notify-send -i `pwd`/notifications/mockup/assets/icons/services/facebook.png Facebook "Dan Collins wants to be friends on Facebook"

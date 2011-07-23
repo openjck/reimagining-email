@@ -1,0 +1,1 @@
+pkill notify-osd; notify-send -i `pwd`/notifications/mockup/assets/icons/services/twitter.png Twitter "Matt Lewis is now following you\!"
