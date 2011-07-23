@@ -1,0 +1,1 @@
+pkill notify-osd; notify-send -i `pwd`/notifications/mockup/assets/icons/services/linkedin.png LinkedIn "Emily has accepted your LinkedIn invitation"
